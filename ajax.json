@@ -1,0 +1,85 @@
+{
+    "products":[
+                    {
+                        "SerialNo" : "1",
+                        "Name" : "Rice",
+                        "Quantity" : "10",
+                        "Unit" : "Kilo Gram",
+                        "Department" : "Grocery",
+                        "Notes" : "Adiban"
+                    },
+                    {
+                        "SerialNo" : "2",
+                        "Name" : "Coconut Oil",
+                        "Quantity" : "1",
+                        "Unit" : "Litre",
+                        "Department" : "Grocery",
+                        "Notes" : "Kera"
+                    },
+                    {
+                        "SerialNo" : "3",
+                        "Name" : "Onion",
+                        "Quantity" : "1",
+                        "Unit" : "Kilo Gram",
+                        "Department" : "Vegetable",
+                        "Notes" : "Fresh"
+                    },
+                    {
+                        "SerialNo" : "4",
+                        "Name" : "Sugar",
+                        "Quantity" : "2",
+                        "Unit" : "Kilo Gram",
+                        "Department" : "Grocery",
+                        "Notes" : "White Sugar"
+                    },
+                    {
+                        "SerialNo" : "5",
+                        "Name" : "Tea Powder",
+                        "Quantity" : "500",
+                        "Unit" : "Gram",
+                        "Department" : "Beverages & Concentrates",
+                        "Notes" : "Red Label"
+                    },
+                    {
+                        "SerialNo" : "6",
+                        "Name" : "Dish Wash Liquid",
+                        "Quantity" : "500",
+                        "Unit" : "Milli Litre",
+                        "Department" : "Cleaning & Household",
+                        "Notes" : "Vim"
+                    },
+                    {
+                        "SerialNo" : "7",
+                        "Name" : "Biscuits",
+                        "Quantity" : "100",
+                        "Unit" : "Gram",
+                        "Department" : "Snacks & Sweets",
+                        "Notes" : "Sun Feast"
+                    },
+                    {
+                        "SerialNo" : "8",
+                        "Name" : "Tooth Paste",
+                        "Quantity" : "250",
+                        "Unit" : "Gram",
+                        "Department" : "Beauty & Hygiene",
+                        "Notes" : "Colgate"
+                    },
+                    {
+                        "SerialNo" : "9",
+                        "Name" : "Milk",
+                        "Quantity" : "500",
+                        "Unit" : "Litre",
+                        "Department" : "Dairy",
+                        "Notes" : "Milma"
+                    },
+                    {
+                        "SerialNo" : "10",
+                        "Name" : "Apple",
+                        "Quantity" : "1",
+                        "Unit" : "Kilo Gram",
+                        "Department" : "Fruits",
+                        "Notes" : "Fresh"
+                    }
+
+    ]
+}
